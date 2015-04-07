@@ -1,2 +1,2 @@
 # coffeed
-One Month Python Course
+One Month Python Course - Splash Page (Project 1)
